@@ -1,4 +1,4 @@
 # Data_Structure
-Describe Operation of Data Structure (such as List, Stack, Queue, Tree, Graph) in Java.
+Describe Operation of Data Structure (such as List, Stack, Queue, Tree, Graph) in Java / C.
 
-They are basic operation of data structure. Programs involve basic knowlegde of data structure and java operation.
+They are basic operation of data structure. Programs involve basic knowlegde of data structure and java /C operation.
